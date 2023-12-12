@@ -20,7 +20,7 @@ const check_result_post = async (req, res) => {
 
         if (student) {
             console.log(student);
-            // res.render('student_result', { individual: student });
+           
             if (student.marks >= 33) {
                 res.render('student_result', { individual: student, message: 'Congratulation! you have cleared the exam.' });
             }
