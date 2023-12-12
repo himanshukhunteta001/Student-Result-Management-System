@@ -1,6 +1,6 @@
 # Student-Result-Management-System
 Setup Guidance 
-Backend
+# Backend
 
 1.Open the project in Visual Studio Code by using open folder from the menu or you can go to the file explore and open the command line then you can type “code .” it will be redirect you to the vs code directly.
 
@@ -10,11 +10,11 @@ Backend
 
 4.Now to run the project write command “npm start” on the terminal.
 
-Frontend
+# Frontend
 
 1.Open the url “http://localhost:8081” on a browser.\
 
-Required Credentials.
+# Required Credentials.
 
 1.For the teacher login:
 
